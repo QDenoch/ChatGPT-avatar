@@ -1,4 +1,4 @@
-# ChatGPT-avatar
+# ChatGPT-avatar---**NOT WORK NOW***
 A Tampermonkey JavaScript script enables you to change the avatar of ChatGPT by uploading a folder containing pictures from your local drive. After you installed the script in Tamper monkey. The next thing you should do is to click the little '📁' icon to upload the folder which contain your avatars.
 
 ## Getting Started
